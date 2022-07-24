@@ -9,6 +9,19 @@
 
 :handshake: Connect with me! www.linkedin.com/in/edwin-louie-62070515a
 
+## Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=1572B6)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=1572B6)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=1572B6)&nbsp;
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=1572B6)&nbsp;
+
 
 <!--
 **edlouie9988/edlouie9988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
