@@ -2,8 +2,11 @@
 
 ## About me
 :book: Computer Engineering at University of Illinois at Urbana-Champaign - Class of 2023
+
 :thought_balloon:	 Interested in cybersecurity and artifical intelligence
+
 :blue_heart:	Outside Interests: Photography, Aviation, Volleyball, Adventuring
+
 :handshake: Connect with me! www.linkedin.com/in/edwin-louie-62070515a
 
 
