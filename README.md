@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 Welcome to my reposititory!
+
+## About me
+:book: Computer Engineering at University of Illinois at Urbana-Champaign - Class of 2023
+:thought_balloon:	 Interested in cybersecurity and artifical intelligence
+:blue_heart:	Outside Interests: Photography, Aviation, Volleyball, Adventuring
+:handshake: Connect with me! www.linkedin.com/in/edwin-louie-62070515a
+
 
 <!--
 **edlouie9988/edlouie9988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
