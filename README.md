@@ -3,7 +3,7 @@
 ## About me
 :book: Computer Engineering at University of Illinois at Urbana-Champaign - Class of 2023
 
-:thought_balloon:	 Interested in cybersecurity and artifical intelligence
+:thought_balloon:	 Interested in cybersecurity, networking, and control systems
 
 :blue_heart:	Outside Interests: Photography, Aviation, Volleyball, Adventuring
 
